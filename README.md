@@ -1,2 +1,1 @@
-# meu-portfolio
-Portfolio criado com ensinamentos da TRYBE
+Meu repositorio pessoal

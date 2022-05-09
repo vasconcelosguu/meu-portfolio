@@ -1,0 +1,138 @@
+* {
+  margin: 3px;
+  padding: 3px;
+  background-color: black;
+}
+body {
+  color: white;
+}
+
+div {
+  margin: 20px;
+  text-align: center;
+  background-color: gray;
+}
+
+h1 {
+  font-family: cursive;
+  background-color: gray;
+}
+
+h2 {
+  font-family: cursive;
+  background-color: gray;
+  text-align: center;
+}
+
+h3 {
+  font-family: cursive;
+  text-align: center;
+}
+
+li { 
+  list-style: none;
+  text-align: center; 
+}
+
+a {
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: none;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: gray;
+  text-align: center;
+}
+
+#portfolio {
+  font-size: 55px;
+  background-color: black;
+}
+
+#my-name {
+  color: rgb(169, 233, 139);
+  background-color: black;
+  text-align: center;
+}
+
+#my-image {
+  border: 2px solid white;
+  border-radius: 50%;
+}
+
+#skills-soft {
+  font-size: 35px;
+  background-color: black;
+  color: rgb(169, 233, 139);
+}
+
+#hard-skills {
+  font-size: 35px;
+  background-color: black;
+  color: rgb(169, 233, 139);
+}
+
+#about {
+  font-size: 35px;
+  color:rgb(169, 233, 139);
+}
+
+#extras {
+  font-size: 35px;
+  background-color: black;
+  color: rgb(169, 233, 139);
+}
+
+#solo-leveling {
+  width: 240px;
+}
+
+#zelda {
+  width: 450px;
+}
+
+#pkm {
+  width: 320px;
+}
+
+.soft-skills {
+  background-color: black;
+}
+
+.hard-skills {
+  background-color: black;
+}
+
+.curiosity {
+  background-color: black;
+}
+
+.Games {
+  color: rgb(169, 233, 139);
+}
+
+li:hover {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.soft-skills:hover {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.hard-skills:hover {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.curiosity:hover {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#portfolio:hover {
+  transition: 2s;
+  background-color: rgb(169, 233, 139);
+}
