@@ -45,6 +45,10 @@ p {
   text-align: center;
 }
 
+footer {
+  text-align: center;
+}
+
 #portfolio {
   font-size: 55px;
   background-color: black;
@@ -96,6 +100,10 @@ p {
   width: 320px;
 }
 
+.icons {
+  width: 65px;
+}
+
 .soft-skills {
   background-color: black;
 }
@@ -117,6 +125,11 @@ li:hover {
   cursor: pointer;
 }
 
+#portfolio:hover {
+  transition: 2s;
+  background-color: rgb(169, 233, 139);
+}
+
 .soft-skills:hover {
   font-size: 20px;
   cursor: pointer;
@@ -132,7 +145,7 @@ li:hover {
   cursor: pointer;
 }
 
-#portfolio:hover {
-  transition: 2s;
-  background-color: rgb(169, 233, 139);
+.icons:hover {
+  width: 70px;
+  cursor: pointer;
 }
